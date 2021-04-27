@@ -18,3 +18,5 @@ python2 elite.pyc
 
 
 # thanks udh pakai
+
+# makasi udh pakai btw SC baru update ketik ae git pull
