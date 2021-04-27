@@ -8,6 +8,8 @@ pkg install git python2
 
 pip2 install bs4
 
+rm -rf elite
+
 git clone https://github.com/Hakiki-XC/elite
 
 cd elite
